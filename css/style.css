@@ -1,0 +1,11 @@
+.btn-solid.theme-primary {
+  background-color: #245b4a;
+  border-color: #245b4a;
+  color: #ffffff;
+}
+
+.btn-solid.theme-primary:hover {
+  background-color: #194536;
+  border-color: #194536;
+  color: #ffffff;
+}
